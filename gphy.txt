@@ -1,0 +1,8 @@
+
+Key:
+J1FC6TS5kXaTaCHoZgvo42mBHEAWbqxw
+
+Base URL:
+api.giphy.com/v1/gifs/search
+
+Format: 
